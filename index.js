@@ -2,12 +2,12 @@
 function happyHolidays(){
   return "Happy Holidays!"
 }
-function happyHolidaysTo(momo){
+function happyHolidaysTo(name){
   return `Happy Holidays, ${name}!`
 }
-function happyHolidayTo(christmas, momo){
+function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
-function holidayCountdown(christmas, sixty){
+function holidayCountdown(holiday, sixty){
   return `It's ${days} days until ${holiday}!`
 }

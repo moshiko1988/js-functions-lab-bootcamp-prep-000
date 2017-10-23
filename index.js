@@ -8,6 +8,6 @@ function happyHolidaysTo(momo){
 function happyHolidayTo(christmas, momo){
   return `Happy ${holiday}, ${name}!`
 }
-function holidayCountdown(christmas, 60){
+function holidayCountdown(christmas, sixty){
   return `It's ${days} days until ${holiday}!`
 }

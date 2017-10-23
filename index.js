@@ -2,6 +2,6 @@
 function happyHolidays(){
   return "Happy Holidays!"
 }
-function happyHolidaysTo(momo){
+function happyHolidaysTo(name){
   return `happy Holidays, ${name}!`
 }

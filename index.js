@@ -3,8 +3,8 @@ function happyHolidays(){
   return "Happy Holidays!"
 }
 function happyHolidaysTo(momo){
-  return `happy Holidays, ${name}!`
+  return `Happy Holidays, ${name}!`
 }
 function happyHolidaysTo(christmas, momo){
-  
+  `Happy ${holiday}, ${name}!`
 }
